@@ -28,7 +28,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guigon%C3%A7alvesbatista/)
 
 <!-- GithubStats -->
-[![Gguigoncalves's GitHub stats](https://github-readme-stats.vercel.app/api?username=gguigoncalves&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Gguigoncalves's GitHub stats](https://github-readme-stats.vercel.app/api?username=gguigoncalves&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -36,7 +36,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZ5Z2t0Mm1vbjdycGNqdDRma3RramY4aWxmYmRtc3lvd3F5YXFyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Imagem">
+  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR0Mjlscm9xdW04dWFtcDQybWNvc3J0ZmdwaGd4anVwNGNpbHN5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
