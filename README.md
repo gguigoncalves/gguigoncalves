@@ -22,13 +22,11 @@
   - ⚡ Eu gosto de jogar basquete, além de ler, assistir filmes e jogar videogame! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas.
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=v07mit0i8xjutx3f9wjwly0xp&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guigon%C3%A7alvesbatista/)
 
 <!-- GithubStats -->
-[![Gguigoncalves's GitHub stats](https://github-readme-stats.vercel.app/api?username=gguigoncalves&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Gguigoncalves's GitHub stats](https://github-readme-stats.vercel.app/api?username=gguigoncalves&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
