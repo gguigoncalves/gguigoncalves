@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Oi 👋🏾, eu sou o Guilherme! Um estudante apaixonado por Desenvolvimento Backend do Brasil.
+  Oi 👋🏾, eu sou o Guilherme! Um estudante apaixonado por Desenvolvimento Backend.
 
   - 📚 Atualmente estou estudando Desenvolvimento de Sistemas no SENAI (CIMATEC).
 
